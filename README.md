@@ -11,11 +11,11 @@ Glowwings adalah aplikasi chatbot cerdas berbasis AI yang dirancang sebagai asis
   - Anggaran Bulanan (*Monthly Budget*)
   - Alergi Bahan Tertentu (*Ingredient Allergies*)
   - Warna Kulit (*Skintone*)
-- ** Analisis Multi-Modal:** Mendukung pengiriman berkas gambar (untuk analisis visual kondisi kulit/wajah) dan dokumen PDF/DOCX/TXT (untuk membedah & menganalisis daftar bahan produk/ingredients).
-- ** Voice-to-Text Input:** Fitur input suara memanfaatkan Web Speech API yang memungkinkan pengguna mengobrol dengan chatbot secara natural, yang kemudian ditranskripsi otomatis menjadi teks.
-- ** Manajemen Percakapan:** Sidebar interaktif untuk mengelola riwayat obrolan, lengkap dengan fitur pin percakapan penting dan opsi hapus untuk percakapan yang sudah tidak diperlukan.
-- ** Sistem Autentikasi:** Integrasi Google Login untuk memastikan keamanan data profil dan riwayat percakapan pengguna.
-- ** Antarmuka Estetis & Responsif:** Desain modern satu halaman penuh (*full-page*) dengan visual minimalis bergradasi pastel (biru & merah muda) yang menenangkan, dirancang fokus pada interaksi pengguna tanpa gangguan visual.
+- **Analisis Multi-Modal:** Mendukung pengiriman berkas gambar (untuk analisis visual kondisi kulit/wajah) dan dokumen PDF/DOCX/TXT (untuk membedah & menganalisis daftar bahan produk/ingredients).
+- **Voice-to-Text Input:** Fitur input suara memanfaatkan Web Speech API yang memungkinkan pengguna mengobrol dengan chatbot secara natural, yang kemudian ditranskripsi otomatis menjadi teks.
+- **Manajemen Percakapan:** Sidebar interaktif untuk mengelola riwayat obrolan, lengkap dengan fitur pin percakapan penting dan opsi hapus untuk percakapan yang sudah tidak diperlukan.
+- **Sistem Autentikasi:** Integrasi Google Login untuk memastikan keamanan data profil dan riwayat percakapan pengguna.
+- **Antarmuka Estetis & Responsif:** Desain modern satu halaman penuh (*full-page*) dengan visual minimalis bergradasi pastel (biru & merah muda) yang menenangkan, dirancang fokus pada interaksi pengguna tanpa gangguan visual.
 
 ---
 
