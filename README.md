@@ -4,22 +4,22 @@ Glowwings adalah aplikasi chatbot cerdas berbasis AI yang dirancang sebagai asis
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-- **🤖 Virtual Beauty Advisor:** Menggunakan model AI canggih untuk memberikan rekomendasi produk yang disesuaikan secara personal berdasarkan:
+- **Virtual Beauty Advisor:** Menggunakan model AI canggih untuk memberikan rekomendasi produk yang disesuaikan secara personal berdasarkan:
   - Tipe Kulit (*Skin Type*)
   - Anggaran Bulanan (*Monthly Budget*)
   - Alergi Bahan Tertentu (*Ingredient Allergies*)
   - Warna Kulit (*Skintone*)
-- **📸 Analisis Multi-Modal:** Mendukung pengiriman berkas gambar (untuk analisis visual kondisi kulit/wajah) dan dokumen PDF/DOCX/TXT (untuk membedah & menganalisis daftar bahan produk/ingredients).
-- **🎙️ Voice-to-Text Input:** Fitur input suara memanfaatkan Web Speech API yang memungkinkan pengguna mengobrol dengan chatbot secara natural, yang kemudian ditranskripsi otomatis menjadi teks.
-- **📌 Manajemen Percakapan:** Sidebar interaktif untuk mengelola riwayat obrolan, lengkap dengan fitur pin percakapan penting dan opsi hapus untuk percakapan yang sudah tidak diperlukan.
-- **🔑 Sistem Autentikasi:** Integrasi Google Login untuk memastikan keamanan data profil dan riwayat percakapan pengguna.
-- **🎨 Antarmuka Estetis & Responsif:** Desain modern satu halaman penuh (*full-page*) dengan visual minimalis bergradasi pastel (biru & merah muda) yang menenangkan, dirancang fokus pada interaksi pengguna tanpa gangguan visual.
+- **Analisis Multi-Modal:** Mendukung pengiriman berkas gambar (untuk analisis visual kondisi kulit/wajah) dan dokumen PDF/DOCX/TXT (untuk membedah & menganalisis daftar bahan produk/ingredients).
+- **Voice-to-Text Input:** Fitur input suara memanfaatkan Web Speech API yang memungkinkan pengguna mengobrol dengan chatbot secara natural, yang kemudian ditranskripsi otomatis menjadi teks.
+- **Manajemen Percakapan:** Sidebar interaktif untuk mengelola riwayat obrolan, lengkap dengan fitur pin percakapan penting dan opsi hapus untuk percakapan yang sudah tidak diperlukan.
+- **Sistem Autentikasi:** Integrasi Google Login untuk memastikan keamanan data profil dan riwayat percakapan pengguna.
+- **Antarmuka Estetis & Responsif:** Desain modern satu halaman penuh (*full-page*) dengan visual minimalis bergradasi pastel (biru & merah muda) yang menenangkan, dirancang fokus pada interaksi pengguna tanpa gangguan visual.
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - **Frontend:** React.js (v19) dengan Vite, Tailwind CSS (v4)
 - **Backend:** Node.js, Express.js
@@ -32,7 +32,7 @@ Glowwings adalah aplikasi chatbot cerdas berbasis AI yang dirancang sebagai asis
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+##  Cara Menjalankan Aplikasi
 
 ### 1. Persiapan Awal
 Klon repositori ini dan masuk ke dalam direktori utama:
@@ -77,7 +77,7 @@ Untuk menjalankan server backend dan frontend secara bersamaan dalam mode pengem
    npm run dev
    ```
 
-#### 📦 Mode Produksi (Production / Live Server)
+####  Mode Produksi (Production / Live Server)
 Jika ingin menjalankan aplikasi secara utuh melalui server Express di port `3000`:
 1. Lakukan build pada frontend dari direktori utama:
    ```bash
