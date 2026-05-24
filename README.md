@@ -38,7 +38,7 @@ GOOGLE_CLIENT_ID=your_google_client_id_here
 ```
 4. **Jalankan aplikasi:**
 ```bash
-npm run dev
+node index.js
 
 ```
 ## Aturan Penggunaan
