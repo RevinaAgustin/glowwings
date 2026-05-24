@@ -1,7 +1,8 @@
+import 'dotenv/config';
 import readline from 'readline';
 import { GoogleGenAI } from '@google/genai';
 
-const ai = new GoogleGenAI({ apiKey: 'AIzaSyBKSI7wAkzQBgPsRDNCkvElQB8Xeis6LPU' });
+const ai = new GoogleGenAI({ apiKey: (process.env.GEMINI_API_KEY || "").trim() });
 
 const rl = readline.createInterface({
   input: process.stdin,
