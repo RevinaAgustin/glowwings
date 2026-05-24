@@ -7,3 +7,4 @@ node_modules/
 dist/
 .antigravitycli
 scratch/
+package-lock.json
