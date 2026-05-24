@@ -1,0 +1,33 @@
+/*
+  Glowwings Application Custom Styling.
+  Defines global custom variables for the pastel gradient aesthetic,
+  establishes a clean glassmorphism backdrop blur system,
+  and manages custom-styled scrollbars and fluid side drawer transitions.
+*/
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(244, 63, 94, 0.15);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(244, 63, 94, 0.3);
+}
+
+.backdrop-blur-xs {
+  backdrop-filter: blur(2px);
+}
+
+iframe[src^="https://accounts.google.com/gsi/"] {
+  display: block;
+  margin: 0 auto;
+}
